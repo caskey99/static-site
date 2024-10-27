@@ -6,3 +6,5 @@ extra_templates:
   - main.html
 extra_css:
   - theme/style.css
+extra:
+  now: !ENV [NOW, "2024"]
