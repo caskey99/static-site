@@ -2,5 +2,7 @@ site_name: "my static site"
 theme:
   name: null
   custom_dir: theme
+extra_templates:
+  - main.html
 extra_css:
   - theme/style.css
